@@ -1,0 +1,6 @@
+datasource:
+  IP: 43.142.151.100
+  port: 3306
+  username: go
+  password: hq19960199.
+  database: go
